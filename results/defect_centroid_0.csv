@@ -1,0 +1,153 @@
+resource,resource_type,cluster_0
+Anchor,relic,1.0
+Ancient Tea Set,relic,1.0
+Bag of Marbles,relic,1.0
+Bag of Preparation,relic,1.0
+Blood Vial,relic,1.0
+Boot,relic,1.0
+Centennial Puzzle,relic,1.0
+Lantern,relic,1.0
+Letter Opener,relic,1.0
+Molten Egg 2,relic,1.0
+Mummified Hand,relic,1.0
+Oddly Smooth Stone,relic,1.0
+Orichalcum,relic,1.0
+Pen Nib,relic,1.0
+Potion Belt,relic,1.0
+PreservedInsect,relic,1.0
+Question Card,relic,1.0
+Regal Pillow,relic,1.0
+Shuriken,relic,1.0
+Strawberry,relic,1.0
+Symbiotic Virus,relic,1.0
+The Courier,relic,1.0
+Toxic Egg 2,relic,1.0
+Art of War,relic,0.5555555555555555
+Black Star,relic,0.5555555555555555
+Bottled Lightning,relic,0.5555555555555555
+Bottled Tornado,relic,0.5555555555555555
+Cables,relic,0.5555555555555555
+Darkstone Periapt,relic,0.5555555555555555
+Frozen Egg 2,relic,0.5555555555555555
+Juzu Bracelet,relic,0.5555555555555555
+Medical Kit,relic,0.5555555555555555
+Pandora's Box,relic,0.5555555555555555
+Philosopher's Stone,relic,0.5555555555555555
+Smiling Mask,relic,0.5555555555555555
+Whetstone,relic,0.5555555555555555
+Blue Candle,relic,0.4444444444444444
+Busted Crown,relic,0.4444444444444444
+Calipers,relic,0.4444444444444444
+ClockworkSouvenir,relic,0.4444444444444444
+DataDisk,relic,0.4444444444444444
+Dead Branch,relic,0.4444444444444444
+Dodecahedron,relic,0.4444444444444444
+FossilizedHelix,relic,0.4444444444444444
+Fusion Hammer,relic,0.4444444444444444
+Gremlin Horn,relic,0.4444444444444444
+Happy Flower,relic,0.4444444444444444
+Ice Cream,relic,0.4444444444444444
+Kunai,relic,0.4444444444444444
+Lee's Waffle,relic,0.4444444444444444
+MawBank,relic,0.4444444444444444
+Mercury Hourglass,relic,0.4444444444444444
+Old Coin,relic,0.4444444444444444
+Omamori,relic,0.4444444444444444
+Ornamental Fan,relic,0.4444444444444444
+Peace Pipe,relic,0.4444444444444444
+Pear,relic,0.4444444444444444
+Pocketwatch,relic,0.4444444444444444
+Prayer Wheel,relic,0.4444444444444444
+Red Mask,relic,0.4444444444444444
+Runic Capacitor,relic,0.4444444444444444
+Shovel,relic,0.4444444444444444
+Singing Bowl,relic,0.4444444444444444
+Snecko Eye,relic,0.4444444444444444
+Sundial,relic,0.4444444444444444
+Thread and Needle,relic,0.4444444444444444
+Tiny House,relic,0.4444444444444444
+Torii,relic,0.4444444444444444
+Unceasing Top,relic,0.4444444444444444
+Vajra,relic,0.4444444444444444
+War Paint,relic,0.4444444444444444
+AscendersBane,card,1.0
+Compile Driver,card,1.0
+Darkness,card,1.0
+Echo Form,card,1.0
+Go for the Eyes,card,1.0
+Hologram,card,1.0
+Leap,card,1.0
+Redo,card,1.0
+Self Repair,card,1.0
+Steam,card,1.0
+Sweeping Beam,card,1.0
+Beam Cell,card,0.5555555555555555
+BootSequence,card,0.5555555555555555
+Capacitor,card,0.5555555555555555
+Creative AI,card,0.5555555555555555
+Defragment,card,0.5555555555555555
+Doom and Gloom,card,0.5555555555555555
+Dualcast,card,0.5555555555555555
+Glacier,card,0.5555555555555555
+Impatience,card,0.5555555555555555
+Melter,card,0.5555555555555555
+Purity,card,0.5555555555555555
+Rebound,card,0.5555555555555555
+Seek,card,0.5555555555555555
+Skim,card,0.5555555555555555
+Undo,card,0.5555555555555555
+Aggregate,card,0.4444444444444444
+Anger,card,0.4444444444444444
+Apotheosis,card,0.4444444444444444
+Armaments,card,0.4444444444444444
+Backflip,card,0.4444444444444444
+Ball Lightning,card,0.4444444444444444
+Barrage,card,0.4444444444444444
+Bash,card,0.4444444444444444
+Blade Dance,card,0.4444444444444444
+Chill,card,0.4444444444444444
+Cleave,card,0.4444444444444444
+Cloak And Dagger,card,0.4444444444444444
+Combust,card,0.4444444444444444
+Conserve Battery,card,0.4444444444444444
+Coolheaded,card,0.4444444444444444
+Corruption,card,0.4444444444444444
+Dagger Throw,card,0.4444444444444444
+Dark Shackles,card,0.4444444444444444
+Deadly Poison,card,0.4444444444444444
+Deflect,card,0.4444444444444444
+Demon Form,card,0.4444444444444444
+Double Energy,card,0.4444444444444444
+Doubt,card,0.4444444444444444
+Feel No Pain,card,0.4444444444444444
+Finesse,card,0.4444444444444444
+Flame Barrier,card,0.4444444444444444
+Flash of Steel,card,0.4444444444444444
+Flex,card,0.4444444444444444
+Flying Knee,card,0.4444444444444444
+Footwork,card,0.4444444444444444
+Ghostly Armor,card,0.4444444444444444
+Havoc,card,0.4444444444444444
+Heavy Blade,card,0.4444444444444444
+Infernal Blade,card,0.4444444444444444
+Iron Wave,card,0.4444444444444444
+Mind Blast,card,0.4444444444444444
+Outmaneuver,card,0.4444444444444444
+Parasite,card,0.4444444444444444
+Poisoned Stab,card,0.4444444444444444
+Pommel Strike,card,0.4444444444444444
+Prepared,card,0.4444444444444444
+Quick Slash,card,0.4444444444444444
+Reprogram,card,0.4444444444444444
+Scrape,card,0.4444444444444444
+Shrug It Off,card,0.4444444444444444
+Slice,card,0.4444444444444444
+Spot Weakness,card,0.4444444444444444
+Streamline,card,0.4444444444444444
+Sucker Punch,card,0.4444444444444444
+Survivor,card,0.4444444444444444
+Swift Strike,card,0.4444444444444444
+Tactician,card,0.4444444444444444
+Twin Strike,card,0.4444444444444444
+Wraith Form v2,card,0.4444444444444444
+Zap,card,0.4444444444444444
